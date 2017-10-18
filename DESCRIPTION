@@ -1,4 +1,4 @@
-Package: JGGEarthquake
+Package: earthquake
 Type: Package
 Title: Capstone for Mastering Software Development in R
 Version: 0.1.0
