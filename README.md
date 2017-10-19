@@ -1,4 +1,4 @@
-https://www.travis-ci.org/Grandez/earthquake.svg?branch=master
+[![Build Status](https://www.travis-ci.org/Grandez/earthquake.svg?branch=master)](https://www.travis-ci.org/Grandez/earthquake)
 
 # JGGEarthquake
 ## Capstone for Mastering software development in R
