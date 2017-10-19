@@ -1,8 +1,9 @@
+library(earthquake)
+library(testthat)
 library(dplyr)
 library(lubridate)
 library(ggplot2)
 library(leaflet)
-library(earthquake)
 
 # Previous task
 

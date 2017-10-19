@@ -1,4 +1,5 @@
 library(earthquake)
+library(testthat)
 
 ## eq_get_data tests
 
