@@ -9,6 +9,6 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
-Imports: stringi, stringr, tidyr, dplyr, ggplot2, data.table, testthat
+Imports: lubridate, stringi, stringr, tidyr, dplyr, ggplot2, data.table, testthat
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
