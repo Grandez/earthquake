@@ -1,3 +1,5 @@
+https://www.travis-ci.org/Grandez/earthquake.svg?branch=master
+
 # JGGEarthquake
 ## Capstone for Mastering software development in R
 
