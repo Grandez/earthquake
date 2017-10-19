@@ -1,6 +1,7 @@
 require(ggplot2)
 require(grid)
 require(dplyr)
+require(leaflet)
 
 #############################################################################
 #  PUBLIC FUNCTIONS
@@ -368,7 +369,7 @@ StatTimeline <- ggproto("StatTimeline", Stat
                             )
                         }
                         ,compute_group = function(data, scales, xmin, xmax) {
-                            data %>% filter(data$x >= xmin & data$x <= xmax)
+                            data %>% dplyr::filter(data$x >= xmin & data$x <= xmax)
                         }
 )
 
