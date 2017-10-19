@@ -1,4 +1,4 @@
-library(JGGEarthquake)
+library(earthquake)
 
 ## eq_get_data tests
 

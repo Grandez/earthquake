@@ -2,7 +2,7 @@ library(dplyr)
 library(lubridate)
 library(ggplot2)
 library(leaflet)
-library(JGGEarthquake)
+library(earthquake)
 
 # Previous task
 
